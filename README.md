@@ -20,6 +20,6 @@ I like tables:
 | 1 | 2 | 3 | 4 | 
 
 
-![colorss](https://user-images.githubusercontent.com/112104183/187476341-0d6f7a5f-c494-4345-8fba-97077b112238.jpg width="137") 
+![colorss](https://user-images.githubusercontent.com/112104183/187476341-0d6f7a5f-c494-4345-8fba-97077b112238.jpg | width=137) 
 
 <img width="137" alt="Screen Shot 2022-08-29 at 11 25 38 AM" src="https://user-images.githubusercontent.com/2119795/187476018-6332ee74-9bdf-48f5-ac76-d010c300db1d.png">
