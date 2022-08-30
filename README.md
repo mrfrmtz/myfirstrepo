@@ -17,3 +17,4 @@ I like tables:
 | --- | --- | --- | --- |
 | this is | the content | within the | table | 
 | i can | write | anything | here |
+| 1 | 2 | 3 | 4 | 
